@@ -1,0 +1,7 @@
+# frontend deps + build output
+frontend/node_modules/
+frontend/dist/
+
+# misc
+.DS_Store
+*.log

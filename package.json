@@ -1,0 +1,13 @@
+{
+  "name": "blockid-contracts",
+  "version": "1.0.0",
+  "description": "BlockID smart contract tests — Team 17 CSE 540",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
